@@ -1,3 +1,3 @@
 module.exports.printMsg = function() {
-    console.log("This is a message from the submodule package");
+    console.log("This is an updated message from the submodule package");
   }
